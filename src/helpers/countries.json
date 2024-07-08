@@ -1,0 +1,18 @@
+[
+    {
+      "iso3a2": "AE",
+      "name": "United Arab Emirates",
+      "dialCodes": ["971"]
+    },
+    {
+      "iso3a2": "US",
+      "name": "United States of America",
+      "dialCodes": ["1"]
+    },
+    {
+      "iso3a2": "CA",
+      "name": "Canada",
+      "dialCodes": ["1"]
+    }
+  ]
+  

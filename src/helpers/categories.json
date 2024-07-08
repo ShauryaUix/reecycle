@@ -1,0 +1,15 @@
+[
+    {
+      "id": "glass",
+      "label": "Glass"
+    },
+    {
+      "id": "plastic",
+      "label": "Plastic"
+    },
+    {
+      "id": "wood",
+      "label": "Wood"
+    }
+  ]
+  
